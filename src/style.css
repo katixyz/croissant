@@ -1,0 +1,38 @@
+body {
+  background-color: beige;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px 20px;
+}
+
+p {
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #b9680e;
+}
+
+.link-page {
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+hr {
+  color: #b9680e;
+  margin: 0 0 40px 0;
+  height: 2px;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  max-width: 400px;
+}
